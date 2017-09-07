@@ -1,6 +1,6 @@
 # Environment-Configuration
 
-* add ssh key to Github account
+* configure Github and Bitbucket account
 
 * configure bash
 
