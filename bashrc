@@ -20,7 +20,7 @@ alias LS='ls --color=auto'
 alias l='ls --color=auto'
 alias ll='ls --color=auto -la'
 alias make="make -j8"
-alias gitpush='git add -u && git commit -m "Gong Edited" && git push'
+alias gitpush='git pull && git add -u && git commit -m "Gong Edited" && git push'
 
 
 
